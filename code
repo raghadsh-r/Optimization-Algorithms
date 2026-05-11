@@ -1,0 +1,45 @@
+#include <bits/stdc++.h>
+#define ll long long
+#define all(v) v.begin(), v.end()
+#define pb push_back 
+#define fast ios::sync_with_stdio(false); cin.tie(nullptr);
+#define yes cout << "YES\n"
+#define no cout << "NO\n"
+ using namespace std;
+void solve(){
+double x0=5,alfha=0.1;
+cin>>x0>>alfha;
+double masta=2*x0;
+double x1=x0-(alfha*masta);
+
+while(x0!=x1){
+    cout<<x1<<" "<<endl;
+    x0=x1;
+    masta=2*x0;
+    x1=x0-(alfha*masta);
+}
+    
+}
+ 
+ 
+ 
+ 
+
+ 
+int main()
+{ 
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    int t=1;
+    //cin>>t;
+    while(t--){
+        solve();
+    }
+ 
+ 
+    return 0;
+    
+}
+    /*
+   “The purpose put into the machine is the purpose which we really desire.”                                
+*/
