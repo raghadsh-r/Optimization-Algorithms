@@ -1,3 +1,4 @@
+
 # Optimization Algorithms: Gradient Descent from Scratch
 
 This repository contains a C++ implementation of the **Gradient Descent** algorithm, a fundamental optimization technique used in Machine Learning to minimize cost functions.
@@ -28,3 +29,5 @@ The code demonstrates how the value of $x$ converges towards zero (the global mi
 
 ## 📈 Learning Journey
 This project is part of my academic journey in **Artificial Intelligence** at Jordan University of Science and Technology (JUST). It serves as a foundational step toward understanding complex neural network optimization.
+<img width="926" height="483" alt="Screenshot 2026-05-11 175057" src="https://github.com/user-attachments/assets/c81caa1d-48df-4035-b9a8-fa2162c3d1f8" />
+<img width="335" height="311" alt="image" src="https://github.com/user-attachments/assets/2a77caa6-a214-4a05-a0b9-a98f2a0e28fb" />
