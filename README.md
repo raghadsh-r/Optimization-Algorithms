@@ -14,7 +14,7 @@ Where:
 - $\alpha$ (Alpha) is the **Learning Rate**.
 - $f'(x_{old})$ is the **Derivative** (Gradient) of the function at the current point.
 
-## 🛠️ Implementation Details
+## Implementation Details
 In this specific example, I implemented Gradient Descent to find the minimum of the function:
 $$f(x) = x^2$$
 Whose derivative is:
